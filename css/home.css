@@ -9,17 +9,8 @@
 }
 
 body {
-    margin: 0;
-    padding: 0;
     font-family: 'Noto Serif', serif;
-    color: #343a40ff;
     text-align: center;
-}
-
-header {
-    padding: .5em;
-    margin: 0;
-    background-color: #dee2e6ff;
 }
 
 header > h1 {
@@ -29,4 +20,12 @@ header > h1 {
 header > h2 {
     font-size: 2em;
     font-weight: 200;
+}
+
+.main {
+    text-align: left;
+}
+
+button {
+    padding: 1em;
 }
